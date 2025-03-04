@@ -1,0 +1,13 @@
+[
+  {
+    "type": "native",
+    "denom": "uplume",
+    "name": "Plume",
+    "symbol": "PLUME",
+    "description": "PLUME Staking Coin",
+    "decimals": 6,
+    "image": "https://raw.githubusercontent.com/cryptobadass/chainlist/main/chain/plume/asset/plume.png",
+    "coinGeckoId": "plume-network",
+    "color": "#FF3D00"
+  }
+]
